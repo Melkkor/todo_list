@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "e552c4a406f7eca288b3f9223acd2dd5ae31024bd9975577c7335c2ed56d65a3"
+build_start_time: [1694004777, 455614000]
+build_end_time: [1694004779, 321272000]
+inputs:
+  ? "/Users/eduardo/Library/CloudStorage/OneDrive-BibliotecasCompartilhadas-Onedrive/Estudos/Flutter/todo_list/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1694004771, 320480374]
+  ? "/Users/eduardo/Library/CloudStorage/OneDrive-BibliotecasCompartilhadas-Onedrive/Estudos/Flutter/todo_list/macos/Runner/AppDelegate.swift"
+  : [1689202870, 0]
+  ? "/Users/eduardo/Library/CloudStorage/OneDrive-BibliotecasCompartilhadas-Onedrive/Estudos/Flutter/todo_list/macos/Runner/MainFlutterWindow.swift"
+  : [1689202870, 0]
